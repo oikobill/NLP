@@ -1,3 +1,5 @@
 .DS_Store
 .ipynb_checkpoints
 transfer_learning/data
+transfer_learning/MNIST_data
+transfer_learning/.ipynb_checkpoints

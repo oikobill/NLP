@@ -5,4 +5,4 @@ Experimenting with NLP, Computer Vision and all things Deep Learning!
 
 ```transfer_learning```: Some tips and tricks on Transfer Learning with Keras and a practical application to the Cats vs Dogs Kaggle Competition. Also Contains a notebook on visualizing Deep Neural Networks and the implicit localisation using the Global Average Pooling layer!
 
-```language_modeling```: A folder to start playing with RNNs
+```fun_with_rnns```: A folder to start playing with RNNs. The first task is making a simple RNN from scratch on Tensorflow to learn to generate baby names!

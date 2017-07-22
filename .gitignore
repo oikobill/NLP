@@ -4,3 +4,5 @@ transfer_learning/data
 transfer_learning/MNIST_data
 transfer_learning/.ipynb_checkpoints
 language_modeling/simple-examples
+fun_with_rnns/data
+transfer_learning/models
